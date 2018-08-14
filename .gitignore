@@ -1,1 +1,4 @@
 **/.terraform/*
+/data/
+/errbot.log
+/error.log
