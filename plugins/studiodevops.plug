@@ -1,0 +1,10 @@
+[Core]
+name = StudioDevops
+module = studiodevops
+
+[Documentation]
+description = Deploy and manage Kolibri Studio
+
+[Python]
+version = 3
+
