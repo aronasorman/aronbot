@@ -6,8 +6,12 @@ name = "pypi"
 [packages]
 errbot = {version = "==5.2.0", extras = ["slack"]}
 slackclient = "*"
+sh = "*"
+requests = "*"
 
 [dev-packages]
+black = "*"
+pytest-watch = "*"
 
 [requires]
 python_version = "3.7"

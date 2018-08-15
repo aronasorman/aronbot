@@ -2,3 +2,4 @@
 /data/
 /errbot.log
 /error.log
+/.pytest_cache
