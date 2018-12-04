@@ -8,6 +8,7 @@ errbot = {version = "==5.2.0", extras = ["slack"]}
 slackclient = "*"
 sh = "*"
 requests = "*"
+twine = "*"
 
 [dev-packages]
 black = "*"

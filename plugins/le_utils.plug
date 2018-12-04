@@ -1,0 +1,10 @@
+[Core]
+name = le_utils
+module = le_utils
+
+[Documentation]
+description = Commands for automating LE utils operations
+
+[Python]
+version = 3
+

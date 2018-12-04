@@ -20,5 +20,5 @@ BOT_LOG_LEVEL = logging.INFO
 
 BOT_IDENTITY = {"token": os.getenv("SLACK_TOKEN")}
 
-BOT_ADMINS = ("@aron", "@jamie", "@jordan", "@kollivier")
-BOT_ALT_PREFIXES = ("@aronbot", "@ar0n")
+BOT_ADMINS = ("@aron",)
+BOT_ALT_PREFIXES = ("@aronbot",)
